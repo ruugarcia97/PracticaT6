@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Practica Tema 6</string>
+    <string name="menu1"> Persona</string>
+    <string name="menu2">Bloc de Notas</string>
+    <string name="llamar">Llamar</string>
+    <string name="correo">Correo Electronico</string>
+    <string name="editarPersona">Editar Persona</string>
+    <string name="txtTelefono">Telefono</string>
+    <string name="introducirTelefono">Introduce el Numero de Telefono</string>
+    <string name="introducirCorreo">Introduce tu correo electronico</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="confirmacionBoton">Se ha insertado los datos correctamente</string>
+    <string name="blocNotas">Bloc de Notas</string>
+    <string name="txtNotas">Notas</string>
+
+</resources>
